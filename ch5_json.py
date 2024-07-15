@@ -10,9 +10,3 @@ print(f"SITCON_ramen_menu_json 的型別是{type(SITCON_ramen_menu_json)}")
 # 將 JSON 格式的 string 轉換為 dictionary
 SITCON_ramen_menu_dict = json.loads(SITCON_ramen_menu_json)
 print(f"SITCON_ramen_menu_dict 的型別是{type(SITCON_ramen_menu_dict)}")
-
-
-
-
-
-
